@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Ho Jong Yu.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Bulgogi Fried Rice.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: PC games, weight lifting, hiking.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: None.
 
